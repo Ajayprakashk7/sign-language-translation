@@ -46,5 +46,5 @@ The Sign Language Translator project was inspired by the need to improve communi
 ## Results
 
 
-![0001](https://github.com/Ajayprakashk7/AI-based-Two-Way-Sign-Language-System/assets/80052150/8bff44d4-92e0-4907-a885-faaf037209b4)
-![0002](https://github.com/Ajayprakashk7/AI-based-Two-Way-Sign-Language-System/assets/80052150/41e6d514-5c13-48b2-b57b-dddca2d46a4d)
+![0001](https://github.com/Ajayprakashk7/AI-based-Two-Way-Sign-Language-System/blob/5a9918714c17c42f0876d94e8e7cf591d3cd6938/assets/0001.jpeg)
+![0002](https://github.com/Ajayprakashk7/AI-based-Two-Way-Sign-Language-System/blob/5a9918714c17c42f0876d94e8e7cf591d3cd6938/assets/0002.jpeg)
